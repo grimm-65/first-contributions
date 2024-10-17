@@ -881,6 +881,7 @@ Sino Felicity Zwane
 - [Amit singh](https://github.com/technicalamit8055)
 - [Devon Dixon] (https://github.com/DevonTD)
 - [rivera]
+-[Dickson Kimathi] (https://github.com/grimm-65)
 - [John Ly] (https://github.com/johnly17)
 - [CJ Bauzon](https://github.com/cbauzon)
 - [Abhinav Deep](https://github.com/abhinav-deep)
